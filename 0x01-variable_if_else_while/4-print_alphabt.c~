@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+/**
+ *main - putchar alphabet
+ *Description: print alphabet except q and e
+ *case
+ *Return: 0 if true
+ */
+int miant(void)
+{
+int x;
+for (x = 'a'; x <='d'; x++)
+putchar(x);
+for (x = 'f'; x <='p'; x++)
+putchar(x);
+for (x = 'r'; x <= 'z'; x++)
+putchar(x);
+putchar('\n');
+ return (0);
+}

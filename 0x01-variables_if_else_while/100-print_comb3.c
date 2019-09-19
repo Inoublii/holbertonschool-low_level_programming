@@ -7,8 +7,10 @@
 int main(void)
 {
 int x, z;
-for (x = '0'; x <= '9'; x++)
+for (x = '0'; x <= '8'; x++)
 for (z = '1'; z <= '9'; z++)
+{
+if (x != z)
 {
 putchar(x);
 putchar(z);
@@ -16,6 +18,7 @@ if (x != '9' || z != '9')
 {
 putchar(',');
 putchar(' ');
+}
 }
 }
 putchar('\n');

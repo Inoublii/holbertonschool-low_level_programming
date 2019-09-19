@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+ *main - print base 16
+ *Description: print base 16 in lowercase
+ *Return: 0 if true
+ */
+int x = (0);
+
+for (x = 0; x < 10; x++)
+putchar(x % 10 + '0');
+for (x= 'a'; x <= 'f'; x++)
+putchar(x);
+putchar('\n');
+return (0);
+}

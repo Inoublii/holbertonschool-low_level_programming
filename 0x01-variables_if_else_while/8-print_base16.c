@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *main - print base 16
- *Description: print base 16 in lowercase
- *Return: 0 if true
- */
+ * main - entry block
+ * @void: no argument
+ * Return: 0 (Sucess)
+**/
 int main(void)
 {
 int x = 0;

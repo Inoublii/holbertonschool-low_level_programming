@@ -7,40 +7,40 @@
 int main(void)
 {
 	long max = 100000000000;
-	long fibonacci1 = 1, fibonacci2 = 0, previous1 = 0;
-	int iterator = 0;
-	long previous2 = 0, aux, aux2;
+	long f1 = 1, f2 = 0, p1 = 0;
+	int it = 0;
+	long p2 = 0, x, x2;
 
 	do {
-		aux = fibonacci1;
-		aux2 = fibonacci2;
-		fibonacci1 += previous1;
-		if (fibonacci1 > max - 1)
+		x = f1;
+		x2 = f2;
+		f1 += p1;
+		if (f1 > max - 1)
 		{
-			fibonacci1 -= previous1;
-			fibonacci1 = fibonacci1 - max + previous1;
-			fibonacci2++;
+			f1 -= p1;
+			f1 = f1 - max + p1;
+			f2++;
 		}
-		previous1 = aux;
-		fibonacci2 += previous2;
-		previous2 = aux2;
-		if (fibonacci2 > 0)
+		p1 = x;
+		f2 += p2;
+		p2 = x2;
+		if (f2 > 0)
 		{
-			if (fibonacci1 < 9999999999)
-				printf("%ld0%ld", fibonacci2, fibonacci1);
+			if (f1 < 9999999999)
+				printf("%ld0%ld", f2, f1);
 			else
 			{
-				printf("%ld%ld", fibonacci2, fibonacci1);
+				printf("%ld%ld", f2, f1);
 			}
 		}
 		else
 		{
-			printf("%ld", fibonacci1);
+			printf("%ld", f1);
 		}
-		iterator++;
-		if (iterator < 98)
+		it++;
+		if (it < 98)
 			printf(", ");
-	} while (iterator < 98);
+	} while (it < 98);
 	printf("\n");
 	return (0);
 }

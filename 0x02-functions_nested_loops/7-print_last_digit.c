@@ -1,10 +1,8 @@
 #include "holberton.h"
 /**
- * digits - last digit.
- *print last digits - hila.
- * @a: digits - i hate checker.
- * inoubli hafedh - hello.
- * Return: return kast digits.
+ * print_last_digit - function that prints the last digit
+ * @a: takes in an integer
+ * Return: returns output
  */
 int print_last_digit(int a)
 {

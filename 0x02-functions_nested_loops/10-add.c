@@ -1,8 +1,9 @@
 #include "holberton.h"
 /**
- * hello - bye okay 
- *
- * Return: nothing
+ * add - adds two integers
+ * @a: integer 1
+ * @b: integer 2
+ * Return: returns result
  */
 int add(int a, int b)
 {

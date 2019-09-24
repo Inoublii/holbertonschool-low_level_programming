@@ -1,51 +1,46 @@
 #include <stdio.h>
-
 /**
- * main - prints the first 98 number
+ * main - Entry Point
  *
- * Description: fibobnachi numbers starting from one
- * Return: 0
+ * Return: 0 Always (Sucess)
  */
-
 int main(void)
 {
-	long fib1, fib1a, fib1b, fib2, fib2a, fib2b, fib3, fib3a, fib3b;
-	long divi = 10000000000;
+	long max = 100000000000;
+	long fibonacci1 = 1, fibonacci2 = 0, previous1 = 0;
+	int iterator = 0;
+	long previous2 = 0, aux, aux2;
 
-	fib1 = 0;
-	fib2 = 1;
-	int counter = 1;
-
-	for (counter = 0; counter < 91; counter++)
-	{
-		fib3 =  fib2 + fib1;
-		fib1 = fib2;
-		fib2 = fib3;
-		printf("%ld, ", fib3);
-	}
-	fib1a = fib1 / divi;
-	fib1b = fib1 % divi;
-	fib2a = fib2 / divi;
-	fib2b = fib2 % divi;
-	for (; counter < 98; counter++)
-	{
-		fib3a = fib1a + fib2a;
-		fib3b = fib1b + fib2b;
-		if (fib3b > divi)
+	do {
+		aux = fibonacci1;
+		aux2 = fibonacci2;
+		fibonacci1 += previous1;
+		if (fibonacci1 > max - 1)
 		{
-			fib3b = fib3b % divi;
-			fib3a++;
+			fibonacci1 -= previous1;
+			fibonacci1 = fibonacci1 - max + previous1;
+			fibonacci2++;
 		}
-		if (counter != 97)
+		previous1 = aux;
+		fibonacci2 += previous2;
+		previous2 = aux2;
+		if (fibonacci2 > 0)
 		{
-			printf("%ld%ld, ", fib3a, fib3b);
-			fib1a = fib2a;
-			fib1b = fib2b;
-			fib2a = fib3a;
-			fib2b = fib3b;
+			if (fibonacci1 < 9999999999)
+				printf("%ld0%ld", fibonacci2, fibonacci1);
+			else
+			{
+				printf("%ld%ld", fibonacci2, fibonacci1);
+			}
 		}
 		else
-			printf("%ld%ld\n", fib3a, fib3b);
-	}
+		{
+			printf("%ld", fibonacci1);
+		}
+		iterator++;
+		if (iterator < 98)
+			printf(", ");
+	} while (iterator < 98);
+	printf("\n");
 	return (0);
 }

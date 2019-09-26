@@ -1,10 +1,12 @@
 #include "holberton.h"
+
 /**
-  * multiplications
-  *@a @c : ints to multiply
-  *return result
-  */
+ * mul - check the code for Holberton School students.
+ * @a : variable.
+ * @b : another variable .
+ * Return: Always 0.
+ */
 int mul(int a, int b)
 {
-	return (a * b);
+return (a * b);
 }

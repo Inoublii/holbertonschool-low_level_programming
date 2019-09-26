@@ -11,17 +11,17 @@
 
 int main(void)
 {
-long d, largest_num;
-long number;
+long x, largest_num;
+long n;
 
 number = 612852475143;
-for (d = 2; d < sqrt(number); d++)
+for (x = 2; n < sqrt(number); x++)
 {
-if ((number % d) == 0)
+if ((number % x) == 0)
 {
-largest_num = d;
-number = number / d;
-d = 1;
+largest_num = x;
+number = number / x;
+x = 1;
 }
 }
 largest_num = number;

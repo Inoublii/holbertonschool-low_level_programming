@@ -4,7 +4,7 @@
   *@a:
   *@z:
   *@y:
-  *@s:
+  *@s:array to be reversed
  *Return: Nothing
   */
 void rev_string(char *s)

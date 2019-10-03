@@ -18,7 +18,7 @@ int _strlen(char *s)
 	return (a);
 }
 /**
- * _strcat - function to concatnate strings
+ * _strncat - function to concatnate strings
  *
  * @dest: destination for concatnation
  *
@@ -27,7 +27,7 @@ int _strlen(char *s)
  * Return: dest
  */
 
-char *_strcat(char *dest, char *src)
+char *_strncat(char *dest, char *src)
 {
 	int dest_len;
 	int a;

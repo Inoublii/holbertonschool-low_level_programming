@@ -1,26 +1,23 @@
-#include"holberton.h"
+#include "holberton.h"
+
 /**
- * _strchr - finds if char occurs in string
- * @s: string to check
- * @c: character to find in s
- * Return: pointer to first instance of c, otherwise NULL
-*/
+ * _strchr - checks for character in a string
+ * @s: pointer to array
+ * @c: char type
+ *
+ * Return: arrayed at check
+ */
+
 char *_strchr(char *s, char c)
 {
-int i = 0;
-int l = 0;
-while (s[l] != '\0')
-l++;
-while (i <= l)
-{
-if (s[i] == c)
-{
-s = s + i;
-return (s);
-}
-i++;
-}
-if (i < l)
-s[i + 1] = '\0';
-return (0);
+	while (*s != '\0')
+	{
+		if (*s == c)
+			return (s);
+		s++;
+	}
+	if (c == '\0')
+		return (s);
+	s = 0;
+	return (s);
 }

@@ -1,23 +1,40 @@
-#include"holberton.h"
+#include "holberton.h"
+
 /**
- * _strpbrk - searches a string
- * @s: pointer
- * @accept: pointer
- * Return: pointer to first of bytes from accept in s
-*/
+ * _strchr - check for character in an array
+ * @s: pointer to array
+ * @c: char type
+ *
+ * Return: arrayed at check
+ */
+
+char *_strchr(char *s, char c)
+{
+	while (*s != '\0')
+	{
+		if (*s == c)
+			return (s);
+		s++;
+	}
+	if (c == '\0')
+		return (s);
+	s = 0;
+	return (s);
+}
+/**
+ * *_strpbrk - find first appearance of a char in an array
+ *
+ * @s: pointer array to be searched
+ * @accept: pointer array with char to be searched
+ * Return:  pointer to array
+ */
+
 char *_strpbrk(char *s, char *accept)
 {
-unsigned int i, j;
-for (i = 0; s[i]; i++)
-{
-for (j = 0; accept[j] != '\0'; j++)
-{
-if (s[i] == accept[j])
-{
-s = &s[i];
-return (s);
-}
-}
-}
-return ('\0');
+	for (; *s; s++)
+	{
+		if (_strchr(accept, *s) != 0)
+			return ((char *) s);
+	}
+	return (0);
 }

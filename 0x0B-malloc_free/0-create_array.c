@@ -1,10 +1,10 @@
 #include "holberton.h"
 #include <stdlib.h>
 /**
-* create_array - a function 
+* create_array - a function
 * @size: size
 * @c: char
-* Return: pointer 
+* Return: pointer
 */
 char *create_array(unsigned int size, char c)
 {

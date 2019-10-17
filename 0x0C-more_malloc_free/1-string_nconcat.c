@@ -1,36 +1,49 @@
-#include "holberton.h"
+#include <stdio.h>
 #include <stdlib.h>
+
 /**
-* string_nconcat - concat two strings.
-* @s1: first string
-* @s2: second string
-* @n: unsiged int
-* Return: Pointer
-*/
+   * string_nconcat - function to concatnate strings with n bytes
+    * @s1: destination for concatnation
+     * @s2: source of string
+      * @n: int type for size of byte
+       * Return: pointer to new memory allocated
+        */
+
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
-char *x = "", *a = "";
-unsigned int z = 0, e = 0, r = 0;
-if (s1 == NULL)
-s1 = x;
-if (s2 == NULL)
-s2 = x;
-while (s1[z] != '\0')
-x++;
-a = malloc((z = (n * sizeof(*s2) + 1) * sizeof(*a)));
-if (a == NULL)
-return (NULL);
-while (e < z)
-{
-a[e] = s1[e];
-e++;
+		int count, count1;
+			int sign = n;
+				char *ptr;
+					int len1, len2;
+
+						if (s1 == NULL)
+									s1 = "";
+							if (s2 == NULL)
+										s2 = "";
+
+								for (len1 = 0; s1[len1] != '\0'; len1++)
+											;
+									for (len2 = 0; s2[len2] != '\0'; len2++)
+												;
+
+										if (sign >= len2)
+												{
+															sign = len2;
+																	ptr = malloc(sizeof(char) * (len1 + len2 + 1));
+																		}
+											else
+														ptr = malloc(sizeof(char) * (len1 + n + 1));
+												if (ptr == NULL)
+															return (NULL);
+													for (count = 0; count < len1; count++)
+															{
+																		ptr[count] = s1[count];
+																			}
+														for (count1 = 0; count1 < sign; count1++)
+																{
+																			ptr[count++] = s2[count1];
+																				}
+															ptr[count++] = '\0';
+																return (ptr);
 }
-while (r < n)
-{
-a[e] = s2[r];
-r++;
-e++;
-}
-a[e] = '\0';
-return (a);
-}
+

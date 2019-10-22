@@ -1,6 +1,2 @@
-#include <stdio.h>
-#define p printf("Hello, Holberton\n")
-void main(void)
-{
-p;
-}
+# 1 "Hello, Holberton\n"
+main;

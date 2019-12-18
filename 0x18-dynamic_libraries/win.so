@@ -42,7 +42,7 @@
   
   
 
-    <meta name="request-id" content="EA52:2769E:2946AC:3D0FF4:5DF80A41" data-pjax-transient>
+    <meta name="request-id" content="7390:40D38:6E5BF9:A08DD0:5DFA5F25" data-pjax-transient>
 
 
 
@@ -54,7 +54,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EA52:2769E:2946AC:3D0FF4:5DF80A41" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="6245540520554662465" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="7390:40D38:6E5BF9:A08DD0:5DFA5F25" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="8343590400647913254" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -74,13 +74,13 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NjZlM2M4ZWNkZDZjYzkwYjU4NmQxMzdkYzg3ZWY3MWFkNmI1MmI3MWIzYWI1N2E2MmFlOGM2OGU1YTliMTFjOHx7InJlbW90ZV9hZGRyZXNzIjoiMTk3LjAuMjQ5LjMxIiwicmVxdWVzdF9pZCI6IkVBNTI6Mjc2OUU6Mjk0NkFDOjNEMEZGNDo1REY4MEE0MSIsInRpbWVzdGFtcCI6MTU3NjUzNjY0MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="OTY3YzRhZmQzMzEwMjRjM2Y0OWJiMThlZDg2NzQ4MjE0NGVhOGVmYzljMzc1ZDU0MTM5YTAyMDU1YWUzMTNhOHx7InJlbW90ZV9hZGRyZXNzIjoiNDEuMjI3LjE1MC4yMjIiLCJyZXF1ZXN0X2lkIjoiNzM5MDo0MEQzODo2RTVCRjk6QTA4REQwOjVERkE1RjI1IiwidGltZXN0YW1wIjoxNTc2Njg5NDQ2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-    <meta name="html-safe-nonce" content="2cca9504d9191ea9cc8ac780121d65b240eaac58">
+    <meta name="html-safe-nonce" content="ddb708892c7b421893fdf7b17fe5c49d7a6e99fd">
 
-  <meta http-equiv="x-pjax-version" content="a72f3f0063f7b5d7a5bf12b61965f702">
+  <meta http-equiv="x-pjax-version" content="d5141f7b276c57bd75d3181dedc78b08">
   
 
       <link href="https://github.com/s0m35h1t/holbertonschool-low_level_programming/commits/master.atom" rel="alternate" title="Recent Commits to holbertonschool-low_level_programming:master" type="application/atom+xml">
@@ -144,7 +144,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c778cd1be7d0483d9fc82bcc8787b3998b5ce16774e1d84984d088d24eecb6c8"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0015139054db335671dcc75975f47be4c8869e507730269651bbd789dd319daa"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -284,7 +284,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=yRbrleWxyMFKHtPPyamv5alM91i82BceAeaWUAR3BwI4sA8l8bd1rMbfAX0OFeJCPVruzm+XBQbtj1Ku3gpHDw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=CSSXMkvovM7tL445M63illIUMNZ1k6p6lCLH4mVjgUYibgNbk76HgMqgoxiPHhrzpA8M1AgduD6dw85a0mnQ1Q=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -411,13 +411,13 @@
 
         <a href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2Fwin.so"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f7cfa7bd4c9490dab97807cccb8dd45e44b89308b2cdd5d670f0829de56f12cd"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ebcc102907d90b3ca5c1b8f0c59d0de87f6869898553a98bcc2083848badaf79"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=s0m35h1t%2Fholbertonschool-low_level_programming"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f7cfa7bd4c9490dab97807cccb8dd45e44b89308b2cdd5d670f0829de56f12cd"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ebcc102907d90b3ca5c1b8f0c59d0de87f6869898553a98bcc2083848badaf79"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -464,7 +464,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="424892f8b39222d19d25bdd7693d3064d5e5fe2ea9c6792c6b04c6e890d6233e" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="22372c6297fa9f29ab8d756eadb63fde9f533ec5186a67d58d2f9000f09366e3" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/s0m35h1t/holbertonschool-low_level_programming/watchers"
@@ -475,7 +475,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:209284637,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ade0fb3d9e9bf8b913649dcc203b6aefa7625cd7b2577db39d93b305ec224b3" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:209284637,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c89db2575b2f650a70ae24bbd6fd37c4e40be0893ed7e3f80285f96b5874c99d" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
       <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
       Star
@@ -488,7 +488,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:209284637,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e17ae81b845f69410870ff1313c47032cc9daa7051fb993fe990f0feb9c24f41" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:209284637,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61a5f3483b3ea214612b5ad36f0a6b70a996f6600ae57a4046dd60922e7c8e3a" href="/login?return_to=%2Fs0m35h1t%2Fholbertonschool-low_level_programming">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -620,13 +620,13 @@
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="+pfBGQCvSrdXRWp/cbgqiO30B9fCcQZ4sPiAWdgeK0R30RGh/4nEgzVpvS/h3s0uSUiko+d56MY6W68+mmtxgA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="mFo97kIb/JJ6ESGPtJr4nFYueB6DNNKM492RPbSzllISbnQGX9WgTTyiFTjrRiSkwoGjv9TWopr80cKi95gHKg==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA52:2769E:2946AC:3D0FF4:5DF80A41&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b4c73a52c4bd946880b7b786eb9b409d5db11f6b68a53838d68dde2e2914a512" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=s0m35h1t%2Fholbertonschool-low_level_programming">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;7390:40D38:6E5BF9:A08DD0:5DFA5F25&quot;,&quot;originating_url&quot;:&quot;https://github.com/s0m35h1t/holbertonschool-low_level_programming/blob/master/0x18-dynamic_libraries/win.so&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="459434f800720671991d0371337e4dd87c765092fe303529401f16a958006846" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=s0m35h1t%2Fholbertonschool-low_level_programming">Sign up</a>
         </div>
       </div>
     </div>
@@ -744,7 +744,7 @@
 
     <div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/s0m35h1t/holbertonschool-low_level_programming/delete/master/0x18-dynamic_libraries/win.so" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="QlFqekoVwrBAEZ1qyPnOdIXQYHcu1OmGh0F+wUHkuDqtGfzGOcV665RYaHL8p5JGjgJRv9DVEarDEjtxeX13/A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/s0m35h1t/holbertonschool-low_level_programming/delete/master/0x18-dynamic_libraries/win.so" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AqbKFE2T2GEMAgN7pibwvaA8mwoDkvdKxJ6djphJRi1EQRJnaaJBCgKm97JLpZ+WOTfgtnwWLip7aL1ueTCFVQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -830,9 +830,9 @@
 
 
     <script crossorigin="anonymous" integrity="sha512-mdrBasYG+QjgS391PSyVkPr06io3gWplCVbPscguetNEHxIEt+mZwCeCxPR9eMNfda6qNuibNFqBo5ak2+O/hg==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-99dac16a.js"></script>
-    <script crossorigin="anonymous" integrity="sha512-AKZHS43XbnDvadGai6lAvPU9RpHiKq1UClXLm0/PwkaxyQNx6mQv3jOkSysidg7WiZZ19hO8H+EB1NsH9b9jFw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-00a6474b.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-QxcIZ5pa4j8P5eL6FLQaU/FAIfodWkzV2rf+7OlyiiiIM9ZaG3MODvgQme+LVDUPMBdmjYYZ+svSlFu5yjFhRw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-43170867.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-YaMtLWUGrJBKl1MT82QnIlTVKV8Z2SGVLJWdQJ/0MXz9h/QvYXeJmN7ssXyDmlww+6BXv0Za2jd8zXST08REyQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-61a32d2d.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-pWb+XERZ8B74prW8yPNeOMfFEfMfo8DvbO4kDA/DzPk10uGiVYPCB51sRRwisgKrPyfXtC+Igc5k9BfUpepmtQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-a566fe5c.js"></script>
     
     
     

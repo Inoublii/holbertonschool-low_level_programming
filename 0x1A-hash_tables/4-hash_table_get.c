@@ -14,7 +14,9 @@ if ((!key || !key[0]) || (!ht || !ht->array))
 	return (NULL);
 index = key_index((const unsigned char *)key, ht->size);
 if (!ht->array[index])
+{
 	return (NULL);
+}
 tmp = ht->array[index];
 while (tmp)
 {

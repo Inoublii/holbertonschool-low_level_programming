@@ -17,8 +17,10 @@ if (!ht->array[i])
 	return (NULL);
 tmp = ht->array[i];
 while (tmp)
+{
 	if (strcmp(key, tmp->key) == 0)
 		return (tmp->value);
 	tmp = tmp->next;
+}
 return (NULL);
 }

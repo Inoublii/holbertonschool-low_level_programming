@@ -1,6 +1,8 @@
 # MakeFile
 
+CC = gcc
+
+SRC = main.c holberton.c
+
 all:
-	gcc main.c holberton.c -o holberton
-cc = gcc
-SRC =	main.c holberton.c
+	$(CC) $(SRC) -o holberton

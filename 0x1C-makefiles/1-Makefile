@@ -2,7 +2,5 @@
 
 all:
 	gcc main.c holberton.c -o holberton
-cc:
-	gcc
-SRC:
-	main.c holberton.c
+cc = gcc
+SRC =	main.c holberton.c
